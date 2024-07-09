@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vrushilpatel2004
 - 👀 I’m interested in learning new skills and techs
-- 🌱 I’m currently learning Computer Science  engineering 
+- 🌱 I’m currently pursuing B.Tech Computer Science Engineering along with IOT 
 - 💞️ I’m looking to collaborate on various projects 
 - 📫 How to reach me, just by email 
 - 😄 Pronouns: ...
